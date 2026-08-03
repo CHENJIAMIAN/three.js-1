@@ -83,3 +83,12 @@ git clone --depth=1 https://github.com/mrdoob/three.js.git
 [jsdelivr-url]: https://www.jsdelivr.com/package/npm/three
 [discord]: https://img.shields.io/discord/685241246557667386
 [discord-url]: https://discord.gg/56GBJwAnUS
+
+<!-- fork-disclosure: CHENJIAMIAN -->
+## Fork Notice / 分叉说明
+
+- **Upstream / 上游**: [mrdoob/three.js](https://github.com/mrdoob/three.js)
+- **Changes in this fork / 本 fork 改动**:
+  - English: This default branch has no functional fork-specific changes. The only intentional difference is this bilingual disclosure.
+  - 中文：该默认分支目前没有功能性的 fork 独有改动；唯一的刻意差异是本双语透明说明。
+- **Upstream state / 上游状态**: This branch may be behind upstream. Review the current [comparison](https://github.com/CHENJIAMIAN/three.js-1/compare/dev...mrdoob/three.js:dev) before relying on it. / 此分支可能落后于上游；使用前请查看当前[对比](https://github.com/CHENJIAMIAN/three.js-1/compare/dev...mrdoob/three.js:dev)。

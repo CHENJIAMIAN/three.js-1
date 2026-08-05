@@ -1,5 +1,14 @@
 # three.js
 
+<!-- codex-github-rules:bilingual-summary -->
+> **中文简介**：用于在网页中构建 3D 内容的 JavaScript 库
+
+> **English summary**: A JavaScript library for building 3D content on the web
+
+> **Fork 说明 / Fork note**：这是上游项目的公开 fork；下方保留并延续上游文档。
+
+---
+
 [![NPM Package][npm]][npm-url]
 [![Build Size][build-size]][build-size-url]
 [![NPM Downloads][npm-downloads]][npmtrends-url]
